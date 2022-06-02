@@ -1,0 +1,15 @@
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.csproj.AssemblyReference.cache
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.AssemblyInfoInputs.cache
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.AssemblyInfo.cs
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.csproj.CoreCompileInputs.cache
+D:\.NetCode\uno-junio-ejercicio-uno\bin\Debug\net6.0\uno-junio-ejercicio-uno.exe
+D:\.NetCode\uno-junio-ejercicio-uno\bin\Debug\net6.0\uno-junio-ejercicio-uno.deps.json
+D:\.NetCode\uno-junio-ejercicio-uno\bin\Debug\net6.0\uno-junio-ejercicio-uno.runtimeconfig.json
+D:\.NetCode\uno-junio-ejercicio-uno\bin\Debug\net6.0\uno-junio-ejercicio-uno.dll
+D:\.NetCode\uno-junio-ejercicio-uno\bin\Debug\net6.0\uno-junio-ejercicio-uno.pdb
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.dll
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\refint\uno-junio-ejercicio-uno.dll
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.pdb
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\uno-junio-ejercicio-uno.genruntimeconfig.cache
+D:\.NetCode\uno-junio-ejercicio-uno\obj\Debug\net6.0\ref\uno-junio-ejercicio-uno.dll
