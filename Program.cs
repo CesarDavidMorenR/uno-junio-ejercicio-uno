@@ -34,7 +34,7 @@ namespace calculator
                     break;  
                 }  
                 case 4: {  
-                    result = Division(input_1, input_2);  
+                    result = Division(input_1, input_2);
                     break;  
                 }  
                 default:  
@@ -61,12 +61,9 @@ namespace calculator
         }  
         //Division  
         public static int Division(int input_1, int input_2) {  
-            int result = input_1 / input_2;  
-            return result;  
+            int result = input_1 / input_2; 
+            return result;
         }  
-
-
-
 
     }
   }
